@@ -14,3 +14,6 @@ Tracing only the edges reveals a realistic spalting design
 You can add this as a texture to 3D prints in the slicer. The slicer will adjust the print to incorporate the texture in 3D giving it a woodgrain-like effect.
 
 Inspired by [this speaker design on imgur](https://imgur.com/a/eZZpfFl).
+
+
+TODO: Incorporate imagetracejs or potracejs to export an SVG of the edges for vector cutting on a laser. 
